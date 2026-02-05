@@ -50,3 +50,7 @@ Interactive dashboard available at: [Tableau Public](https://public.tableau.com/
 ## Technologies
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+
+## GitHub Repository
+
+**Source Code:** [https://github.com/isacmj7/airline-flight-delay-analysis](https://github.com/isacmj7/airline-flight-delay-analysis)
